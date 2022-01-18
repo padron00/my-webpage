@@ -1,11 +1,11 @@
 var students = [
   {
-    lname: "Portilla",
-    name: "Francisco Emanuel",
-    age: 26,
+    lname: "Padron Gomez",
+    name: "Jose Enrique",
+    age: 21,
     birthday: {
-      year: 1995,
-      month: "November",
+      year: 2000,
+      month: "Septiembre",
       day: 16
     },
     Career: "IDYGS"

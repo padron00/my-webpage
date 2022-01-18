@@ -11,13 +11,13 @@ var students = [
     Career: "IDYGS"
   },
   {
-    lname: "Salazar",
-    name: "Emanuel",
-    age: 27,
+    lname: "Salazar Zumaya",
+    name: "Edgar Ulises",
+    age: 21,
     birthday: {
-      year: 1994,
-      month: "November",
-      day: 16
+      year: 2000,
+      month: "April",
+      day: 30
     },
     Career: "IDYGS"
   },

@@ -5,19 +5,19 @@ var students = [
     age: 21,
     birthday: {
       year: 2000,
-      month: "Septiembre",
+      month: "September",
       day: 16
     },
     Career: "IDYGS"
   },
   {
     lname: "Salazar",
-    name: "Emanuel",
-    age: 27,
+    name: "Edgar",
+    age: 21,
     birthday: {
-      year: 1994,
-      month: "November",
-      day: 16
+      year: 2000,
+      month: "April",
+      day: 30
     },
     Career: "IDYGS"
   },
